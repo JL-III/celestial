@@ -1,0 +1,11 @@
+{
+    "name": "Martian Mountains",
+    "rarity": 8,
+    "landBiomes": [
+        "sands-high",
+        "sands-red",
+        "sands-cliffs"
+    ],
+    "seaBiomes": ["sands"],
+    "shoreBiomes": ["sands"]
+}

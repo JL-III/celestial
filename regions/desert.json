@@ -1,0 +1,10 @@
+{
+    "name": "Martian Desert",
+    "landBiomes": [
+        "sands",
+        "sands-red",
+        "crater"
+    ],
+    "seaBiomes": ["sands"],
+    "shoreBiomes": ["sands"]
+}
