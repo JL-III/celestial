@@ -1,14 +1,16 @@
 {
-    "interpolator": {
-        "horizontalScale": 9,
-        "function": "BILINEAR_STARCAST_9"
-    },
-    "seed": 55512,
-    "composite": [{
-        "style": {
-            "style": "NOWHERE",
-            "zoom": 4
-        },
-        "seed": 235
-    }]
+  "interpolator": {
+    "horizontalScale": 9,
+    "function": "BILINEAR_STARCAST_9"
+  },
+  "seed": 55512,
+  "composite": [
+    {
+      "style": {
+        "style": "NOWHERE",
+        "zoom": 8
+      },
+      "seed": 235
+    }
+  ]
 }
